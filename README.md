@@ -28,3 +28,6 @@ https://github.com/leehaesung/Differential_Equation_For_TensorFlow/blob/master/l
 
 https://github.com/leehaesung/Differential_Equation_For_TensorFlow/blob/master/lorenz_attractor_recursive.ipynb
 
+* Output:
+
+![lorenz_attractor_recursive.png](https://github.com/leehaesung/Differential_Equation_For_TensorFlow/blob/master/ImageFiles/lorenz_attractor_recursive.png)
