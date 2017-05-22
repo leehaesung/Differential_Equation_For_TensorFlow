@@ -6,7 +6,11 @@ Differential Equation For TensorFlow
 
 * harmonic_oscillator.ipynb
 
-https://github.com/leehaesung/Differential_Equation_For_TensorFlow/blob/master/harmonic_oscillator.ipynb
+https://github.com/leehaesung/Differential_Equation_For_TensorFlow/blob/master/harmonic_oscillator.ipynb 
+
+* Output:
+
+![harmonic_oscillator.png](https://github.com/leehaesung/Differential_Equation_For_TensorFlow/blob/master/ImageFiles/harmonic_oscillator.png)
 
 ***
 
