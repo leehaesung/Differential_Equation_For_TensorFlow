@@ -4,6 +4,16 @@
 
 Differential Equation For TensorFlow
 
+* Battery_Consumption.ipynb
+
+https://github.com/leehaesung/Differential_Equation_For_TensorFlow/blob/master/Battery_Consumption.ipynb
+
+* Output:
+
+![BatteryConsumption.png](https://github.com/leehaesung/Differential_Equation_For_TensorFlow/blob/master/ImageFiles/BatteryConsumption.png)
+
+***
+
 * harmonic_oscillator.ipynb
 
 https://github.com/leehaesung/Differential_Equation_For_TensorFlow/blob/master/harmonic_oscillator.ipynb 
